@@ -1,0 +1,7 @@
+const: sockdrawer= {name:"home sockdrawer",
+depth in inches: 8,
+length in inches: 36,
+width in inches: 42,
+hardware style: colonial,
+hardware color: bronze,
+drawerempty: false
